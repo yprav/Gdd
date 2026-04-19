@@ -3,7 +3,7 @@ project(GDAIMod)
 
 set(CMAKE_CXX_STANDARD 20)
 
-set(GEODE_TARGET_PLATFORM "android")
+set(GEODE_TARGET_PLATFORM "android32")
 
 include(FetchContent)
 
